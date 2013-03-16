@@ -17,4 +17,4 @@ b. Administration language: Vietnamese
 > Save.
 
 Bước 4: Khi bạn gặp bất kỳ vấn đề nào liên quan tới gói ngôn ngữ này, vui lòng trao đổi tại:
-http://forum.opencart.com/viewforum.php?f=169
+https://github.com/fanha99/opencart_vietnamese/issues

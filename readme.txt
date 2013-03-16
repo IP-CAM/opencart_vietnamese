@@ -17,4 +17,4 @@ b. Administration language: Vietnamese
 > Save.
 
 Step 4: when you get any bug relative to this language pack, please report it:
-http://forum.opencart.com/viewforum.php?f=169
+https://github.com/fanha99/opencart_vietnamese/issues
