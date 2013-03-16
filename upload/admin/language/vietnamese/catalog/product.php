@@ -3,13 +3,13 @@
 $_['heading_title']          = 'Sản phẩm'; 
 
 // Text  
-$_['text_success']      = 'Thành công: Sản phẩm đã được thay đổi!';
+$_['text_success']           = 'Thành công: Sản phẩm đã được thay đổi!';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';
 $_['text_default']           = 'Mặc định';
 $_['text_image_manager']     = 'Quản lý ảnh';
-$_['text_browse']            = 'Browse Files';
-$_['text_clear']             = 'Clear Image';
+$_['text_browse']            = 'Duyệt file';
+$_['text_clear']             = 'Xóa Ảnh';
 $_['text_option']            = 'Tùy chọn';
 $_['text_option_value']      = 'Giá trị tùy chọn';
 $_['text_percent']           = 'Tỷ lệ phần trăm';
@@ -39,8 +39,8 @@ $_['entry_jan']              = 'JAN:<br/><span class="help">Japanese Article Num
 $_['entry_isbn']             = 'ISBN:<br/><span class="help">International Standard Book Number</span>';
 $_['entry_mpn']              = 'MPN:<br/><span class="help">Manufacturer Part Number</span>';
 $_['entry_location']         = 'Địa điểm:';
-$_['entry_manufacturer']     = 'Hãng sản xuất:';
 $_['entry_shipping']         = 'Yêu cầu Vận chuyển:'; 
+$_['entry_manufacturer']     = 'Hãng sản xuất:';
 $_['entry_date_available']   = 'Ngày cập nhật:';
 $_['entry_quantity']         = 'Số lượng:';
 $_['entry_minimum']          = 'Số lượng tối thiểu:<br/><span class="help">Số lượng ít nhất khi đặt hàng</span>';
@@ -68,9 +68,10 @@ $_['entry_required']         = 'Bắt buộc:';
 $_['entry_status']           = 'Trạng thái:';
 $_['entry_sort_order']       = 'Thứ tự:';
 $_['entry_category']         = 'Danh mục:';
+$_['entry_filter']           = 'Bộ lọc:<br /><span class="help">(Autocomplete)</span>';
 $_['entry_download']         = 'Tải về:';
 $_['entry_related']          = 'Sản phẩm cùng loại:';
-$_['entry_tag']          	 = 'Tags:<br /><span class="help">Ngăn cách bằng dấu phẩy</span>';
+$_['entry_tag']              = 'Tags:<br /><span class="help">Ngăn cách bằng dấu phẩy</span>';
 $_['entry_reward']           = 'Điểm thưởng:';
 $_['entry_layout']           = 'Bố cục:';
 

@@ -6,8 +6,8 @@ $_['heading_title']                 = 'Bảng Quản trị';
 $_['text_overview']                 = 'Tổng quan';
 $_['text_statistics']               = 'Thống kê';
 $_['text_latest_10_orders']         = '10 đơn đặt hàng mới nhất';
-$_['text_total_sale']              = 'Doanh số bán hàng:';
-$_['text_total_sale_year']         = 'Doanh số bán hàng trong năm:';
+$_['text_total_sale']               = 'Doanh số bán hàng:';
+$_['text_total_sale_year']          = 'Doanh số bán hàng trong năm:';
 $_['text_total_order']              = 'Tổng số đơn đặt hàng:';
 $_['text_total_customer']           = 'Tổng số khách hàng:';
 $_['text_total_customer_approval']  = 'Khách hàng chờ duyệt:';
@@ -22,10 +22,10 @@ $_['text_order']                    = 'Tổng đơn hàng';
 $_['text_customer']                 = 'Tổng khách hàng';
 
 // Column 
-$_['column_order']       		   = 'ID Đơn đặt hàng';
+$_['column_order']       		    = 'ID Đơn đặt hàng';
 $_['column_customer']               = 'Tên khách hàng';
 $_['column_status']                 = 'Trạng thái';
-$_['column_date_added'] 		   = 'Ngày thêm';
+$_['column_date_added']             = 'Ngày thêm';
 $_['column_total']                  = 'Tổng';
 $_['column_firstname']              = 'Họ';
 $_['column_lastname']               = 'Tên';

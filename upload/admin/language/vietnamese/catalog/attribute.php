@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Thuộc tính';
 
 // Text
-$_['text_success']      = 'Thành công: Thuộc tính đã được thay đổi!';
+$_['text_success']           = 'Thành công: Thuộc tính đã được thay đổi!';
 
 // Column
 $_['column_name']            = 'Tên thuộc tính';

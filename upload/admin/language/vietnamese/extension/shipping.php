@@ -13,5 +13,5 @@ $_['column_sort_order']  = 'Thứ tự';
 $_['column_action']      = 'Thao tác';
 
 // Error
-$_['error_permission']  = 'Cảnh báo: Bạn không có quyền sửa đổi vận chuyển!';
+$_['error_permission']   = 'Cảnh báo: Bạn không có quyền sửa đổi vận chuyển!';
 ?>

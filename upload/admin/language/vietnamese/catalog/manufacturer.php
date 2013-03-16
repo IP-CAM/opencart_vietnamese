@@ -3,11 +3,11 @@
 $_['heading_title']      = 'Hãng sản xuất';
 
 // Text
-$_['text_success']      = 'Thành công: Hãng sản xuất đã được thay đổi!';
+$_['text_success']       = 'Thành công: Hãng sản xuất đã được thay đổi!';
 $_['text_default']       = 'Mặc định';
 $_['text_image_manager'] = 'Quản lý hình';
-$_['text_browse']        = 'Browse Files';
-$_['text_clear']         = 'Clear Image';
+$_['text_browse']        = 'Duyệt file';
+$_['text_clear']         = 'Xóa Ảnh';
 $_['text_percent']       = 'Tỷ lệ phần trăm';
 $_['text_amount']        = 'Số lượng Cố định';
 

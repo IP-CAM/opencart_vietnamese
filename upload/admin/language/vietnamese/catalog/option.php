@@ -8,7 +8,7 @@ $_['text_choose']         = 'Chọn';
 $_['text_select']         = 'Chọn';
 $_['text_radio']          = 'Radio';
 $_['text_checkbox']       = 'Checkbox';
-$_['text_image']          = 'Image';
+$_['text_image']          = 'Ảnh';
 $_['text_input']          = 'Đầu vào';
 $_['text_text']           = 'Văn bản';
 $_['text_textarea']       = 'Vùng Văn bản';
@@ -16,9 +16,9 @@ $_['text_file']           = 'Tập tin';
 $_['text_date']           = 'Ngày';
 $_['text_datetime']       = 'Ngày &amp; Thời gian';
 $_['text_time']           = 'Thời gian';
-$_['text_image_manager']  = 'Image Manager';
-$_['text_browse']         = 'Browse Files';
-$_['text_clear']          = 'Clear Image';
+$_['text_image_manager']  = 'Quản lý Ảnh';
+$_['text_browse']         = 'Duyệt file';
+$_['text_clear']          = 'Xóa Ảnh';
 
 // Column
 $_['column_name']         = 'Tên tùy chọn';
@@ -28,7 +28,7 @@ $_['column_action']       = 'Thao tác';
 // Entry
 $_['entry_name']         = 'Tên tùy chọn:';
 $_['entry_type']         = 'Loại:';
-$_['entry_value']        = 'Lựa chọn giá trị tên:';
+$_['entry_option_value'] = 'Tên giá trị tùy chọn:';
 $_['entry_image']        = 'Hình ảnh:';
 $_['entry_sort_order']   = 'Thứ tự:';
 

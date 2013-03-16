@@ -3,11 +3,11 @@
 $_['heading_title']          = 'Danh mục';
 
 // Text
-$_['text_success']     = 'Thành công: Danh mục đã được thay đổi!';
+$_['text_success']           = 'Thành công: Danh mục đã được thay đổi!';
 $_['text_default']           = 'Mặc định';
 $_['text_image_manager']     = 'Quán lý hình ảnh';
-$_['text_browse']            = 'Browse Files';
-$_['text_clear']             = 'Clear Image';
+$_['text_browse']            = 'Duyệt file';
+$_['text_clear']             = 'Xóa ảnh';
 
 // Column
 $_['column_name']            = 'Tên Danh mục';
@@ -20,6 +20,7 @@ $_['entry_meta_keyword'] 	 = 'Từ khóa:';
 $_['entry_meta_description'] = 'Mô tả từ khóa:';
 $_['entry_description']      = 'Mô tả danh mục:';
 $_['entry_parent']           = 'Danh mục cha:';
+$_['entry_filter']           = 'Bộ lọc:<br /><span class="help">(Autocomplete)</span>';
 $_['entry_store']            = 'Cửa hàng:';
 $_['entry_keyword']          = 'Từ khóa SEO:<br/><span class="help">Từ khóa phải duy nhất.</span>';
 $_['entry_image']            = 'Hình ảnh:';

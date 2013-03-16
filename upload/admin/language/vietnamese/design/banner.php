@@ -6,8 +6,8 @@ $_['heading_title']      = 'Banners';
 $_['text_success']       = 'Thành công: Bạn đã sửa đổi banners!';
 $_['text_default']       = 'Mặc định';
 $_['text_image_manager'] = 'Quản lý hình ảnh';
-$_['text_browse']        = 'Browse Files';
-$_['text_clear']         = 'Clear Image';
+$_['text_browse']        = 'Duyệt file';
+$_['text_clear']         = 'Xóa Ảnh';
 
 // Column
 $_['column_name']        = 'Tên Banner';
