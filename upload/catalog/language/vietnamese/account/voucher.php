@@ -23,7 +23,7 @@ $_['entry_amount']     = 'Số tiền:<br /><span class="help">(Giá trị từ 
 $_['error_to_name']    = 'Tên người nhận từ 1 đến 64 kí tự!';
 $_['error_from_name']  = 'Tên bạn từ 1 đến 64 kí tự!';
 $_['error_email']      = 'Địa chỉ E-Mail không hợp lệ!';
-$_['error_amount']     = 'Số tiền phải từ %s đến %s!';
 $_['error_theme']      = 'Bạn phải chọn mẫu phiếu quà tặng!';
+$_['error_amount']     = 'Số tiền phải từ %s đến %s!';
 $_['error_agree']      = 'Lỗi: Bạn phải đồng ý với điều khoản phiếu quà tặng không được hoàn tiền!';
 ?>

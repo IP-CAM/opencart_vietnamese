@@ -1,5 +1,5 @@
 <?php
-// Heading
+// Heading 
 $_['heading_title']     = 'Sổ địa chỉ';
 
 // Text
@@ -11,18 +11,18 @@ $_['text_update']       = 'Địa chỉ của bạn đã cập nhật thành cô
 $_['text_delete']       = 'Địa chỉ của bạn đã xóa thành công';
 
 // Entry
-$_['entry_firstname']           = 'Tên:';
-$_['entry_lastname']            = 'Họ:';
-$_['entry_company']             = 'Công ty:';
+$_['entry_firstname']   = 'Tên:';
+$_['entry_lastname']    = 'Họ:';
+$_['entry_company']     = 'Công ty:';
 $_['entry_company_id']  = 'Mã số Công ty:';
 $_['entry_tax_id']      = 'Mã số thuế:';
-$_['entry_address_1']           = 'Địa chỉ dòng 1:';
-$_['entry_address_2']           = 'Địa chỉ dòng 2:';
-$_['entry_postcode']            = 'Mã Bưu Điện:';
-$_['entry_city']                = 'Thành Phố:';
-$_['entry_country']             = 'Quốc Gia:';
-$_['entry_zone']                = 'Tỉnh/Thành phố:';
-$_['entry_default']     		= 'Địa chỉ này mặc định ?';
+$_['entry_address_1']   = 'Địa chỉ dòng 1:';
+$_['entry_address_2']   = 'Địa chỉ dòng 2:';
+$_['entry_postcode']    = 'Mã Bưu Điện:';
+$_['entry_city']        = 'Thành Phố:';
+$_['entry_country']     = 'Quốc Gia:';
+$_['entry_zone']        = 'Tỉnh/Thành phố:';
+$_['entry_default']     = 'Địa chỉ này mặc định ?';
 
 // Error
 $_['error_delete']      = 'Lỗi: Bạn phải có ít nhất một địa chỉ!';

@@ -10,6 +10,7 @@ $_['text_forgotten']   = 'Quên Mật Khẩu';
 $_['text_account']     = 'Tài Khoản Của Tôi';
 $_['text_edit']        = 'Thay đổi tài khoản';
 $_['text_password']    = 'Mật khẩu';
+$_['text_address']     = 'Address Books';
 $_['text_wishlist']    = 'Wish List';
 $_['text_order']       = 'Lịch sử đơn hàng';
 $_['text_download']    = 'Downloads';

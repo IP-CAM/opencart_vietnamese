@@ -21,6 +21,4 @@ $_['error_firstname']  = 'Tên phải từ 1 đến 32 ký tự!';
 $_['error_lastname']   = 'Họ phải từ 1 đến 32 ký tự!';
 $_['error_email']      = 'Email không hợp lệ!';
 $_['error_telephone']  = 'Điện thoại phải từ 3 đến 32 ký tự!';
-
-
 ?>

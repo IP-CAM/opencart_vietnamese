@@ -1,5 +1,5 @@
 <?php
-// Heading
+// Heading 
 $_['heading_title']   = 'Quên mật khẩu?';
 
 // Text
@@ -11,9 +11,7 @@ $_['text_success']    = 'Thành công: mật khẩu mới đã được gửi đ
 
 // Entry
 $_['entry_email']     = 'Địa chỉ Email:';
-$_['entry_captcha']		 = 'Mã xác nhận:';
 
 // Error
 $_['error_email']     = 'Lỗi: địa chỉ email này không có trong dữ liệu của chúng tôi, vui lòng thử lại!';
-$_['error_captcha']		 = 'Mã xác nhận không chính xác!';
 ?>

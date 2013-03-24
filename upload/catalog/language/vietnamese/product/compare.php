@@ -16,8 +16,8 @@ $_['text_reviews']      = 'Dựa vào %s đánh giá.';
 $_['text_summary']      = 'Tóm tắt';
 $_['text_weight']       = 'Trọng lượng';
 $_['text_dimension']    = 'Kích thước (L x W x H)';
-$_['text_remove']       = 'Xóa';
 $_['text_compare']      = 'So sánh sản phẩm (%s)';
 $_['text_success']      = 'Thành công: Bạn đã thêm <a href="%s">%s</a> sản phẩm vào danh sách <a href="%s">so sánh</a>!';
+$_['text_remove']       = 'Xóa';
 $_['text_empty']        = 'Bạn chưa chọn sản phẩm nào để so sánh.';
 ?>

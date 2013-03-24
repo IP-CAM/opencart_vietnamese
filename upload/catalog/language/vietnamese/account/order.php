@@ -22,10 +22,6 @@ $_['text_history']          = 'Lịch sử đơn hàng';
 $_['text_success']          = 'You have successfully added the products from order ID #%s to your cart!';
 $_['text_empty']            = 'Bạn chưa có đơn hàng nào!';
 $_['text_error']            = 'Đơn hàng bạn yêu cầu không có!';
-$_['text_action']           = 'Choose an action:';
-$_['text_selected']         = 'With selected..';
-$_['text_reorder']          = 'Add to Cart';
-$_['text_return']           = 'Return Products';
 
 // Column
 $_['column_name']           = 'Tên sản phẩm';
@@ -37,7 +33,4 @@ $_['column_action']         = 'Action';
 $_['column_date_added']     = 'Ngày tạo';
 $_['column_status']         = 'Tình trạng';
 $_['column_comment']        = 'Ghi chú';
-
-// Error
-$_['error_warning']         = 'Warning: you must select some products and an action complete your request!';
 ?>
