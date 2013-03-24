@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Sử dụng phiếu quà tặng';
 
 // Text
-$_['text_voucher']  = 'Voucher(%s):';
+$_['text_voucher']  = 'Phiếu Voucher(%s):';
 $_['text_success']  = 'Thành công: Phiếu quà tặng giảm giá của bạn đã được áp dụng!';
 
 // Entry

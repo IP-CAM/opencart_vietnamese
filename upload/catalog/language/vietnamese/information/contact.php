@@ -4,7 +4,7 @@ $_['heading_title']   = 'Liên hệ với chúng tôi';
 
 // Text 
 $_['text_location']  = 'Thông tin của chúng tôi';
-$_['text_contact']   = 'Thông tin liên hệ';
+$_['text_contact']   = 'Thông tin của Bạn';
 $_['text_address']   = 'Địa chỉ:';
 $_['text_email']     = 'E-Mail:';
 $_['text_telephone'] = 'Điện thoại:';

@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Áp dụng mã giảm giá';
 
 // Text
-$_['text_coupon']   = 'Coupon(%s):';
+$_['text_coupon']   = 'Mã Giảm giá(%s):';
 $_['text_success']  = 'Thành công: Mã giảm giả của bạn đã được áp dụng!';
 
 // Entry
